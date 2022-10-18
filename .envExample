@@ -1,0 +1,6 @@
+PORT=3000
+MONGO_URI=mongodb://localhost:27017
+MAIL_HOST=hotmail.com
+MAIL_USER=username@hotmail.com
+MAIL_PASSWORD=your-email-password
+JWT_SECRET=secret
